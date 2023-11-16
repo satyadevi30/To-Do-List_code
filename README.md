@@ -1,6 +1,6 @@
 # To-Do-List_code
-##Problem Statement:
-###A To-Do List application is a useful project that helps users manage and organize their tasks efficiently. This project aims to create a command-line or GUI-based application using Python, allowing users to create, update, and track their to-do lists.
+#Problem Statement:
+#A To-Do List application is a useful project that helps users manage and organize their tasks efficiently. This project aims to create a command-line or GUI-based application using Python, allowing users to create, update, and track their to-do lists.
 ##Code Explanation:
 ###-->Class Definition (TodoList):
 The TodoList class represents a to-do list. It has the following methods:
