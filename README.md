@@ -9,7 +9,7 @@ The TodoList class represents a to-do list. It has the following methods:
 ##### ->add_task: Adds a new task to the to-do list and saves the updated list.
 ##### ->complete_task: Marks a task as completed by removing it from the list and saves the updated list.
 ##### ->delete_task: Deletes a task from the list and saves the updated list.
-####-->Function:
+#### -->Function:
 The main function is the entry point of the program.It creates an instance of the TodoList class to manage tasks.
 The program runs in a loop, allowing the user to perform various actions until they choose to exit.
 The program presents a menu with options for the user (display tasks, add task, complete task, delete task, exit).
